@@ -1,0 +1,7 @@
+[Servidor]
+HostName=localhost
+Protocol=mysql-5
+Port=3306
+Database=wkpdv
+User=root
+Password=
