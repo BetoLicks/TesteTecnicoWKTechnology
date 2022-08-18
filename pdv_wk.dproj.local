@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/17 19:32:51.000.643,=C:\Users\Beto Licks\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 19:33:18.000.413,C:\Users\Beto Licks\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\__PROJETOS_DELPHI__\PDV WK\pdv_wk_u.dfm</Transaction>
+    <Transaction>2022/08/17 19:33:18.000.413,C:\Users\Beto Licks\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\__PROJETOS_DELPHI__\PDV WK\pdv_wk_u.pas</Transaction>
+    <Transaction>2022/08/17 19:33:21.000.958,C:\Users\Beto Licks\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\__PROJETOS_DELPHI__\PDV WK\pdv_wk.dproj</Transaction>
+    <Transaction>2022/08/18 03:46:28.000.949,=C:\__PROJETOS_DELPHI__\PDV WK\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 03:47:06.000.339,C:\__PROJETOS_DELPHI__\PDV WK\Unit1.dfm=C:\__PROJETOS_DELPHI__\PDV WK\dmgeral_u.dfm</Transaction>
+    <Transaction>2022/08/18 03:47:06.000.339,C:\__PROJETOS_DELPHI__\PDV WK\Unit1.pas=C:\__PROJETOS_DELPHI__\PDV WK\dmgeral_u.pas</Transaction>
+    <Transaction>2022/08/18 12:21:56.000.797,=C:\__PROJETOS_DELPHI__\PDV WK\Unit2.pas</Transaction>
+    <Transaction>2022/08/18 12:23:23.000.037,C:\__PROJETOS_DELPHI__\PDV WK\Unit2.dfm=C:\__PROJETOS_DELPHI__\PDV WK\alterait_u.dfm</Transaction>
+    <Transaction>2022/08/18 12:23:23.000.037,C:\__PROJETOS_DELPHI__\PDV WK\Unit2.pas=C:\__PROJETOS_DELPHI__\PDV WK\alterait_u.pas</Transaction>
+  </Transactions>
+</BorlandProject>
